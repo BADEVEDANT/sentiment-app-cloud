@@ -48,3 +48,4 @@ Streamlit Community Cloud is classified as **Platform as a Service (PaaS)** beca
    streamlit run app.py
    ```
 4. Open your browser at `http://localhost:8501`.
+
